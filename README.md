@@ -1,4 +1,4 @@
-# Lung cancer visualization
+# Academic Project - Lung cancer visualization
 
 ## 1. Project description
 
