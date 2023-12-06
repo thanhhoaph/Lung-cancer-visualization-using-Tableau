@@ -1,4 +1,4 @@
-# Academic Project - Lung cancer visualization
+# Lung cancer visualization using Tableau
 
 ## 1. Project description
 
